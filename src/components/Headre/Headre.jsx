@@ -5,7 +5,7 @@ export const Headre = () => {
     <div className={classes.headre}>
       privet
       <div>
-         мементо мори что значит помни о смерте
+         тепение и труд никогда не предадут ф вот мечта предать может.
          
       </div>
     </div>
